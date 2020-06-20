@@ -1,4 +1,5 @@
 axy
 20200620
 dev_1936
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
